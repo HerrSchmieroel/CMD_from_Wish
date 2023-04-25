@@ -1,0 +1,26 @@
+exit , quit = closing the program
+
+Windows , Linux = ?
+
+calculate = starting a simple calculater
+
+[browser]_open_link = open a link in a browser!
+Note: You can only open link in these browsers
+Microsoft Edge
+Google Chrome
+Firefox
+OperaGX
+
+font-color [option] = change the color of the console
+
+options:
+
+    0 = Black
+    1 = Blue
+    2 = Green
+    3 = Cyan
+    4 = Red
+    5 = Magenta
+    6 = Yellow
+    7 = White
+

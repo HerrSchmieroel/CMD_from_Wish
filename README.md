@@ -1,9 +1,13 @@
+# ANNOUNCEMENT
+## I will no longer work with C# for this project. This means that this repository will no longer be updated and archived.
+##
+## Also the exe is being removed because you cant open it and of the stated reason above.
+#
 # CMD_from_Wish
 ## cmd_from_wish is a clone of the normal command prompt but with selfmade commands.
 #
 # How can I use it?
-## Download the exe file [here](https://github.com/HerrSchmieroel/CMD_from_Wish/releases/tag/exe)
-## Then just run it!
+## You cant use the exe anymore for more look at "ANNOUNCEMENT"
 #
 # What commands are available? 
 ## In the included "commads.txt" you can see all the commands that are available and what they do!
@@ -13,4 +17,4 @@
 ### The ? means that the meaning of the command is hidden and that you have type the command itself to see what happens. 
 #
 # Found a bug?
-## If you found a bug report it in the "issues" tab. I will try to fix it!
+## The repo is archived you cant report bugs anymore!
